@@ -1,0 +1,3 @@
+#TypeError in Admin::Articles::PreviewsController#show
+no implicit conversion of nil into String
+上記エラーが出たときの対応
